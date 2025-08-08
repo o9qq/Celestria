@@ -1,0 +1,2 @@
+put your proxies here, proxy format:
+login:password@hostname:port

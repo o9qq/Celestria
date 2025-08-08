@@ -1,0 +1,4 @@
+put your discord tokens here, example:
+token1
+token2
+token3
