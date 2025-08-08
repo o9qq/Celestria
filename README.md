@@ -1,6 +1,6 @@
 # Celestria - Advanced Discord Sniper Bot
 
-Celestria is a high-performance, open-source Discord sniper bot designed to automate actions like token joining, reaction sniping, and message interception. Built for speed and efficiency, it leverages multi-token support and proxies to maximize success rates.
+Celestria is a high-performance, open-source Discord sniper bot designed to automate actions like username sniping using proxies and discord account tokens. Built for speed and efficiency, it leverages multi-token support and proxies to maximize success rates.
 
 # ✨ Features:
 
