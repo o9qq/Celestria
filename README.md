@@ -4,11 +4,11 @@ Celestria is a high-performance, open-source Discord sniper bot designed to auto
 
 # ✨ Features:
 
-- 🚀 Ultra-fast token joining (vanity, invites, etc.)
-- ⚡ Reaction/Message sniping
+- 🚀 Ultra-fast token validating
+- ⚡ Username sniping
 - 🌐 Proxy support (HTTP/SOCKS)
 - 🔄 Multi-token load balancing
-- 📌 Customizable delays & triggers
+- 📌 Customizable delays
 
 # 📥 Setup
 
