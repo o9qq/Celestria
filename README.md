@@ -20,11 +20,11 @@ git clone https://github.com/o9qq/Celestria.git
 - Add proxies (one per line) to proxies.txt.
 - Add Discord tokens (one per line) to tokens.txt.
 
-# 💡 Note: 
-More tokens = higher success rate. You can even use your own account’s token.
-
-4. Run the bot:
+3. Run the bot:
 python3 celestria.py
+
+# 💡 Note: 
+# More tokens = higher success rate. You can even use your own account’s token.
 
 # ⚠️ Disclaimer
 This project is open-source and for educational purposes only. Misuse may violate Discord's ToS. Use at your own risk.
