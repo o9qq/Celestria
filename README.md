@@ -24,7 +24,7 @@ git clone https://github.com/o9qq/Celestria.git
 python3 celestria.py
 
 # 💡 Note: 
-# More tokens = higher success rate. You can even use your own account’s token.
+# More tokens = higher success rate. You can even use your own account’s token which is NOT recommended since discord may rate limit your account or suspend it.
 
 # ⚠️ Disclaimer
 This project is open-source and for educational purposes only. Misuse may violate Discord's ToS. Use at your own risk.
